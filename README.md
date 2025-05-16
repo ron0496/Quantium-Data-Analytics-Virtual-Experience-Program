@@ -55,6 +55,21 @@ LIFESTAGE: Customer attribute that identifies whether a customer has a family or
 
 PREMIUM_CUSTOMER: Customer segmentation used to differentiate shoppers by the price point of products they buy and the types of products they buy. It is used to identify whether customers may spend more for quality or brand or whether they will purchase the cheapest options.
 
+### Observations and Recommendations
+
+* Sales have mainly been due to Budget - older families, Mainstream - young singles/couples, and Main-
+stream - retirees shoppers. We found that the high spend in chips for mainstream young singles/couples
+and retirees is due to there being more of them than other buyers.
+
+* Mainstream, midage and young singles and couples are also more likely to pay more per packet of
+chips. This is indicative of impulse buying behaviour.
+
+* We’ve also found that Mainstream young singles and couples are 28% more likely to purchase KETTLE
+chips compared to the rest of the population. The Category Manager may want to increase the
+category’s performance by off-locating some KETTLE and smaller packs of chips in discretionary
+space near segments where young singles and couples frequent more often to increase visibilty and
+impulse behaviour.
+
 ## Task 2
 
 ### [Experimentation and uplift testing](https://github.com/ron0496/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Task2.pdf)
@@ -81,6 +96,17 @@ This can be broken down by:
 Create a measure to compare different control stores to each of the trial stores to do this write a function to reduce having to re-do the analysis for each trial store. Consider using Pearson correlations or a metric such as a magnitude distance e.g. 1- (Observed distance – minimum distance)/(Maximum distance – minimum distance) as a measure.
 
 Once you have selected your control stores, compare each trial and control pair during the trial period. You want to test if total sales are significantly different in the trial period and if so, check if the driver of change is more purchasing customers or more purchases per customers etc.
+
+### Observations and Recommendations
+
+* Control stores 233, 155, and 237 were selected for trial stores 77, 86, and 88, respectively.
+
+* Trial stores 77 and 88 showed significant differences in at least two out of three trial months, indicating a measurable impact.
+
+* Trial store 86, however, did not show a significant increase in sales despite a noticeable rise in customer numbers.
+
+* It’s recommended to consult the Category Manager to determine if any special promotions or discounts in trial store 86 may have affected sales figures by lowering prices.
+
 
 ## Task 3
 
