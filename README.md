@@ -27,7 +27,7 @@ In this program you will learn key analytics skills such as:
 
 ## Task 1
 
-### Data preparation and customer analytics
+### [Data preparation and customer analytics](https://github.com/ron0496/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Task1.pdf)
 
 Conduct analysis on your client's transaction dataset and identify customer purchasing behaviours to generate insights and provide commercial recommendations.
 
@@ -57,7 +57,7 @@ PREMIUM_CUSTOMER: Customer segmentation used to differentiate shoppers by the pr
 
 ## Task 2
 
-### Experimentation and uplift testing
+### [Experimentation and uplift testing](https://github.com/ron0496/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Task2.pdf)
 Extend your analysis from Task 1 to help you identify benchmark stores that allow you to test the impact of the trial store layouts on customer sales.
 
 #### Here is the background information on your task
@@ -84,7 +84,7 @@ Once you have selected your control stores, compare each trial and control pair 
 
 ## Task 3
 
-### Analytics and commercial application
+### [Analytics and commercial application](https://github.com/ron0496/Quantium-Data-Analytics-Virtual-Experience-Program/blob/main/Report.pdf)
 
 Use your analytics and insights from Task 1 and 2 to prepare a report for your client, the Category Manager.
 
